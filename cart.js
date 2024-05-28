@@ -88,8 +88,6 @@ function lessQuantity(i) {
   }
 }
 
-//  <div></div>
-
 // localStorage.setItem('kis naam sa krwana ha' , 'value stringify wali');
 
 // localStorage.getItem('kis item sa save krwaya ha');

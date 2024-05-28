@@ -132,4 +132,3 @@ function goToCart(){
 console.log(localStorage.setItem);
 
 
-{/* <div></div> */}
