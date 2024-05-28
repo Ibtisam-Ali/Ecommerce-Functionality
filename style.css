@@ -1,0 +1,33 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ img{
+    width: 200px;
+}
+.card-title{
+    margin-top: 5px;
+}
+a:hover{
+     cursor: pointer;    
+}
+#icon{
+    display: none;
+}
+
+
+
+
+
+ @media  (max-width: 500px) {
+    #links{
+        display: none;
+    }
+    #icon{
+        display: block;
+        margin: 30px 30px;
+        font-size: larger;
+    }
+    
+} 
