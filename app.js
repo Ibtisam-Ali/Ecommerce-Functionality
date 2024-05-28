@@ -130,3 +130,6 @@ function goToCart(){
     window.location = 'cart.html';
 }
 console.log(localStorage.setItem);
+
+
+{/* <div></div> */}
